@@ -1,4 +1,4 @@
-# Git Flow by example using GitHub #  YO SOY MARCELA RODRIGUEZ
+# Git Flow by example using GitHub #  
 
 ## Initial Setup ##
 
